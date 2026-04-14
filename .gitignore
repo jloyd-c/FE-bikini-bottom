@@ -1,0 +1,3 @@
+# Sprint planning docs — local reference only, not for version control
+*.md
+!.github/pull_request_template.md
